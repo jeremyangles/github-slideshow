@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#life is too short to not have fun
 Use the left arrow to go back!
